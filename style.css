@@ -65,7 +65,7 @@ body {
 }
 
 @media (max-width: 768px) {
-    .result-row {
+    .calc-button {
         font-size: 28px;
     }
 }
