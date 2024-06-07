@@ -63,4 +63,10 @@ body {
 .calc-button:hover {
     filter: opacity(85%) brightness(105%);
 }
+
+@media (max-width: 768px) {
+    .result-row {
+        font-size: 28px;
+    }
+}
 /* end Calculator styling */
